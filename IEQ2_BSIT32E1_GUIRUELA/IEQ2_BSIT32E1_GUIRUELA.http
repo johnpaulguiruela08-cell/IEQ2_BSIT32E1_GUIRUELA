@@ -1,0 +1,6 @@
+@IEQ2_BSIT32E1_GUIRUELA_HostAddress = http://localhost:5081
+
+GET {{IEQ2_BSIT32E1_GUIRUELA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
